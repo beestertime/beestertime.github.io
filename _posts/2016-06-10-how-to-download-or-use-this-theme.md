@@ -1,24 +1,17 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
+title: "Big picture coding"
 comments: true
-description: "How to Download or Use This Theme"
-keywords: "dummy content"
+description: "Big picture coding"
+keywords: "big picture"
 ---
 
-### Use this theme as you main site
+Coding will generally go like :
 
-- Download or fork the master branch of this theme repo into your GitHub account.
-- Rename the repo into something like `your_username.github.io`.
-- Edit `_config.yml` file to your preferences.
-- Edit `about.md` file for your About page.
-- Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
-- Now, visit `http://your_username.github.io` and you should see your blog running.
+(insert steps here)
 
-### Use this theme as a project page
-
-If you want to use this theme as a project page blog, you don't need to rename the theme repo into `your_username.github.io`.
-
-All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
+In Stata, you “run” or execute codes in 2 windows: 
+•	Window 1 is your “.do” file where you write out code
+•	Window 2 is where you see the results of your code  
 
 #### Cheers!
