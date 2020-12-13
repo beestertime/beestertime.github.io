@@ -10,7 +10,7 @@ keywords: "big picture"
 Coding will generally go like :
 
 
-![steps](http://beeplay.github.com/images/steps.png)
+![steps](http://beeplay.github.com/steps.png)
 
 ##### Getting used to Stata display
 In Stata, you “run” or execute codes in 2 windows: 
