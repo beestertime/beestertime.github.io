@@ -10,8 +10,7 @@ keywords: "big picture"
 Coding will generally go like :
 
 
-![Minion](http://octodex.github.com/images/minion.png)
-(insert steps here)
+![steps](http://beeplay.github.com/images/steps.png)
 
 ##### Getting used to Stata display
 In Stata, you “run” or execute codes in 2 windows: 
