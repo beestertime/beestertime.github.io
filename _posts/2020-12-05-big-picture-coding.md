@@ -8,9 +8,9 @@ keywords: "big picture"
 
 ##### The coding process
 Coding will generally go like :
-
-
-![steps](https://github.com/beeplay/beeplay.github.io/blob/master/steps.png)
+1. write code
+2. execute code
+3. see results
 
 ##### Getting used to Stata display
 In Stata, you “run” or execute codes in 2 windows: 
