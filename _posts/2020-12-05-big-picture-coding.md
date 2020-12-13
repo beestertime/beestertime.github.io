@@ -9,6 +9,8 @@ keywords: "big picture"
 ##### The coding process
 Coding will generally go like :
 
+
+![Minion](http://octodex.github.com/images/minion.png)
 (insert steps here)
 
 ##### Getting used to Stata display
