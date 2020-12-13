@@ -13,8 +13,8 @@ Coding will generally go like :
 
 ##### Getting used to Stata display
 In Stata, you “run” or execute codes in 2 windows: 
-•	Window 1 is your “.do” file where you write out code
-•	Window 2 is where you see the results of your code  
+*	Window 1 is your “.do” file where you write out code
+*	Window 2 is where you see the results of your code  
 
 ##### Coding best practices
 In all statistical software, there are codes for good practice.
