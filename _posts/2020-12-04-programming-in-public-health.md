@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programming in public health"
+title: "Purpose of blog - Programming in public health"
 description: "Programming in public health: A public health professional’s guide."
 comments: true
 keywords: "programming, public health, intro"
@@ -22,7 +22,7 @@ Let me know what questions you’d like answered and I’ll do my best to cover 
 
 No dumb questions!
 
-### Where can I get some?
+### Why did I start this?
 
 Like many other public health students, I’ve faced challenges in learning how to code. Official manuals exist, but there’s none that provide an annotated guide of codes that are tailored to public health professionals and health researchers.
 
