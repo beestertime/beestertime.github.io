@@ -2,7 +2,7 @@
 layout: post
 title: "Big picture coding"
 comments: true
-description: "Big picture coding"
+description: "2. Big picture coding"
 keywords: "big picture"
 ---
 
