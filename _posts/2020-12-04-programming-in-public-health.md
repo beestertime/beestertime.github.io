@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. Purpose of blog - Programming in public health"
+title: "1. Purpose of blog"
 description: "Programming in public health: A public health professional’s guide."
 comments: true
 keywords: "programming, public health, intro"
