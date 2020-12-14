@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "2. Big picture coding"
+title: "2. Big picture coding - Stata focus"
 comments: true
 description: "Big picture coding"
 keywords: "big picture"
 ---
 
 ##### The coding process
-Coding will generally go like :
-1. write code
+Coding is an iteritative process that will generally proceed through **3** main steps:
+>1. write code
 2. execute code
 3. see results
 
@@ -19,5 +19,6 @@ In Stata, you “run” or execute codes in 2 windows:
 
 ##### Coding best practices
 In all statistical software, there are codes for good practice.
+
 
 
