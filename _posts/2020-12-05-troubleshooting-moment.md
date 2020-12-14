@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "Reflection: Troubleshooting"
+title: "Reflection: Troubleshooting Encouragement + Ideas"
 comments: true
 description: "Troubleshooting moment"
 keywords: "troubleshooting"
 ---
 
-Sometimes we find our code does not run.  
+You will likely come across situations where your code will not run.  
+
+These situations can be frusterating, especially when the culprit is often a small comma or syntax that's missing from your code.  
 
 Some ideas for troubleshooting: 
-* I compared my code to a reference code that a colleague shared with me for a similar project. 
-* I actually had to use Sublime Text Editor and use a Side-by-Side comparison package to help me compare differences between the two types of code. 
-* Scanning line by line, I eventually identified a few missing letters that were the likely culprit of my non-functioning code: 
-
+* **Scan your code line by line.** I eventually identified a few missing letters that were the likely culprit of my non-functioning code: 
+* **Compare your code to reference code.** If you're using a reference code (ex. from the internet or something your collegue shared with you), compare your code to the reference code and look for any differences. 
+* **Narrate the intended action of your code outloud.** Try saying outloud what each line of code is doing. Sometimes vocalizing things can highlight obvious problems that you otherwise overlooked when simply reading your code. H/T to my collegue, Rachel J, for this tip! 🙏
+* **Take a break.** When all else fails, a walk is sometimes the best solution
 
 
