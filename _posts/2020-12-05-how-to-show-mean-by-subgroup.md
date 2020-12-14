@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to show mean/median by subgroup"
+title: "3. How to show mean/median by subgroup"
 comments: true
 description: "How to show mean/median by subgroup"
 keywords: "subgroup"
