@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2. Big picture coding - Stata focus"
+title: "2. Stata: Big picture coding"
 comments: true
 description: "Big picture coding"
 keywords: "big picture"
