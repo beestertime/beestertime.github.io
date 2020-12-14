@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Big picture coding"
+title: "2. Big picture coding"
 comments: true
-description: "2. Big picture coding"
+description: "Big picture coding"
 keywords: "big picture"
 ---
 
