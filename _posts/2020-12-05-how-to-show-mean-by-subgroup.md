@@ -5,6 +5,7 @@ description: "How to show mean/median by subgroup"
 keywords: "subgroup"
 ---
 **Code speak**: How to show mean/median by subgroup
+
 **Context Example**: How to show average or median age of all mothers in every year (2000-2014)?
 
 ```stata
