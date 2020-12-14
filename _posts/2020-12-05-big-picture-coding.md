@@ -11,7 +11,6 @@ Coding is an iteritative process that will generally proceed through **3** main 
 >1. write code
 >2. execute code
 >3. see results
-
 ##### Getting used to Stata display
 In Stata, you “run” or execute codes in 2 windows: 
 *	Window 1 is your “.do” file where you write out code
