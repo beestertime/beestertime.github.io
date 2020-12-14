@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hi! I graduated recently from my MSc in Epidemiology, where I specialized in infectious diseases and global health.
+Hi! I graduated recently from my MSc in Epidemiology, where I specialized in infectious diseases and global health 🌎. 
 
 I am trained in SAS, with basic certification. My familarity to other statistical software comes from self-teaching (R, Python) and work (Stata).
 
