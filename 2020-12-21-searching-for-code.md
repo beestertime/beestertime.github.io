@@ -11,7 +11,7 @@ Searching things up is a normal part of coding.
 
 This often requires searching for a generic description of your very specific problem. For example, if I wanted to find how to find the average age of mothers for the years 2000, 2005, 2010, and 2015, I would need to search for something more general such as: 
 
-_how to find mean by subgroups?_
+>_how to find mean by subgroups?_
 
 **Coding is a constant exercise in idea translation and clarity in communication.🔂**
 
