@@ -14,6 +14,7 @@ This often requires searching for a generic description of your very specific pr
 _how to find mean by subgroups?_
 
 **Coding is a constant exercise in idea translation and clarity in communication.🔂**
+
 Searching for answers will force you to practice taking the messy coding problems in your head and figuring out how to communicate it in a way that others can understand, whether through search engines, forums, or emailing your collegues. 
 
 Other common or specific search terms you may have to use: 
