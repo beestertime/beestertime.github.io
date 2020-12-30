@@ -31,5 +31,5 @@ forvalues x=1/25 }
 * Looping helps you achieve consistency and reduce risk of coding errors (not necessarily to save on typing)
 
 ###### Sources: 
-###### Nice website that clearly explains looping with examples and exercises: https://datacarpentry.org/stata-economics/06-loops/
-###### https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/
+Nice website that clearly explains looping with examples and exercises: https://datacarpentry.org/stata-economics/06-loops/
+https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/
