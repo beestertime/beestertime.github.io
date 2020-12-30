@@ -25,6 +25,6 @@ forvalues x=1/25
 * Consider using loops for any tasks you have to repeat 2+ 
 * Looping helps you achieve consistency and reduce risk of coding errors (not necessarily to save on typing)
 
-* `___`
+`___`
 ###### Sources: 
 https://datacarpentry.org/stata-economics/06-loops/
