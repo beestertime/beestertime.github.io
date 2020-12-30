@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4. Reflection: Troubleshooting Encouragement + Ideas"
+title: "4. Reflection: Troubleshooting encouragement + ideas"
 comments: true
 description: "Troubleshooting moment"
 keywords: "troubleshooting"
