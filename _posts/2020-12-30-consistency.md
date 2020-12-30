@@ -8,8 +8,8 @@ keywords: "loops, foreach, consistency"
 
 **Context Example**: How to be reduce errors in code? Is there a way to get code to automatically do repetitive tasks?
 
-# Consistency and avoiding errors is key in coding
-In some jobs, it’s important to ensure consistency and minimizing the risk of errors. In coding, we'd like to do the same thing, especially when we are doing repetitive tasks.
+# Avoiding errors
+In most jobs, we want to minimize the risk of errors. In coding, we'd like to do the same thing, especially when we are doing repetitive tasks.
 
 _To do this in coding, we can use loops._
 
