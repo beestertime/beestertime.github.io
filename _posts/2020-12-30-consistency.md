@@ -14,7 +14,6 @@ _To do this in coding, we can use loops._
 ```stata
 forvalues x=1/25
   gen bagel `x'=plain if spread==`x'
-
 ```
 
 ## Practical takeaways 
