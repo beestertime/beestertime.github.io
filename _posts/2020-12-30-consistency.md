@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6. Repetitive commands & the importance of consistency "
+title: "6. Repetitive commands & avoiding errors "
 description: "consistency"
 keywords: "loops, foreach, consistency"
 ---
