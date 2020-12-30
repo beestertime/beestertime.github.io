@@ -18,7 +18,7 @@ forvalues x=1/25
 ```
 
 ## Practical takeaways 
-> Consider using loops for any tasks you have to repeat 2+ 
+* Consider using loops for any tasks you have to repeat 2+ 
 
 ###### Sources: 
 https://datacarpentry.org/stata-economics/06-loops/
