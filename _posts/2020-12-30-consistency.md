@@ -5,6 +5,7 @@ description: "consistency"
 keywords: "loops, foreach, consistency"
 ---
 **Code speak**: How to loop over variables
+
 **Context Example**: How to be reduce errors in code? Is there a way to get code to automatically do repetitive tasks?
 
 # Consistency and avoiding errors is key in coding
@@ -30,5 +31,5 @@ forvalues x=1/25 }
 * Looping helps you achieve consistency and reduce risk of coding errors (not necessarily to save on typing)
 
 ###### Sources: 
-https://datacarpentry.org/stata-economics/06-loops/
+Nice website that clearly explains looping with examples and exercises: https://datacarpentry.org/stata-economics/06-loops/
 https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/
