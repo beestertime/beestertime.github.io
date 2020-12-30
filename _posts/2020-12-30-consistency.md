@@ -4,8 +4,8 @@ title: "6. Repetitive commands & the importance of consistency "
 description: "consistency"
 keywords: "loops, foreach, consistency"
 ---
-**Code speak**: How to loop over variables, looping, foreach
-**Context Example**: How to be be more consistent when coding repetitive tasks 
+**Code speak**: How to loop over variables
+**Context Example**: How to be reduce errors in code? Is there a way to get code to automatically do repetitive tasks?
 
 # Consistency and avoiding errors is key in coding
 In some jobs, it’s important to ensure consistency and minimizing the risk of errors. In coding, we'd like to do the same thing, especially when we are doing repetitive tasks.
