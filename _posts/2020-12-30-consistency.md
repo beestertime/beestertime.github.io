@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6. Repetitive commands & avoiding errors "
+title: "6. Stata: How to avoid errors "
 description: "consistency"
 keywords: "loops, foreach, consistency"
 ---
