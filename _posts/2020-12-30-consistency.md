@@ -22,7 +22,7 @@ forvalues x=1/25
 * == means "equal to". It's a type of [syntax](https://www.stata.com/manuals13/psyntax.pdf)
 
 ## Practical takeaways 
-* Consider using loops for any tasks you have to repeat 2+ 
+* Consider using [loops](https://datacarpentry.org/stata-economics/06-loops/) for any tasks you have to repeat 2+ 
 * Looping helps you achieve consistency and reduce risk of coding errors (not necessarily to save on typing)
 
 ###### Sources: 
