@@ -16,7 +16,7 @@ forvalues x=1/25
   gen bagel `x'=plain if marmalade==`x'
 ```
 ## Break down 
-* forvalues means
+* forvalues is a command commonly used in coding repetitive tasks
 * 1/25 means we want to list 1-25 values in increments of 1 
 * gen means we want to _generate_ or create a new variable called bagel, that will represent _plain_ (or contain the value plain) **IF** the marmalade variable is equal to ``x'`
 * == means "equal to". It's a type of [syntax] (https://www.stata.com/manuals13/psyntax.pdf)
@@ -25,6 +25,6 @@ forvalues x=1/25
 * Consider using loops for any tasks you have to repeat 2+ 
 * Looping helps you achieve consistency and reduce risk of coding errors (not necessarily to save on typing)
 
-`___`
 ###### Sources: 
 https://datacarpentry.org/stata-economics/06-loops/
+https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/
