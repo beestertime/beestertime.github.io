@@ -39,8 +39,12 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
+  - slug : epidemiology
+    title: Epidemiology
+    - slug : statistics
+    title: Statistics
+    - slug : Global Health 
+    title: Global Health
 
 exclude:
   - "gulp"
