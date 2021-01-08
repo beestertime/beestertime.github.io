@@ -39,11 +39,14 @@ plugins:
 navbar:
   - slug : about
     title: About
+    
   - slug : epidemiology
     title: Epidemiology
-    - slug : statistics
+  
+  - slug : statistics
     title: Statistics
-    - slug : Global Health 
+  
+  - slug : Global Health 
     title: Global Health
 
 exclude:
