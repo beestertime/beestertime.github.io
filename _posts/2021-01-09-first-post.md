@@ -2,7 +2,7 @@
 layout: post
 title: First Post 
 author: beestertime
-categories: statistics
+categories: stats
 date: '2021-01-09'
 
 ---
