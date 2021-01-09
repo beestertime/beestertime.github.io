@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: statistics
+title: Statistics
 order: 4
 category: stats
 
