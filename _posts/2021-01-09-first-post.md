@@ -1,8 +1,7 @@
 ---
 layout: post
 title: First Post 
-author: beestertime
-categories: statistics
+categories: epistats
 date: '2021-01-09'
 ---
 
