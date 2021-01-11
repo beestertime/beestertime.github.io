@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: epi+stats
+title: Epidemiology
 order: 2
 category: epistats
 
