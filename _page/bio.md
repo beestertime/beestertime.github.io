@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 Hi! I graduated recently from my MSc in Epidemiology, where I specialized in infectious diseases and global health 🌎. 
 
