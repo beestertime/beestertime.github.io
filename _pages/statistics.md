@@ -6,4 +6,4 @@ category: statistics
 
 ---
 
-## stats
+## Statistics
