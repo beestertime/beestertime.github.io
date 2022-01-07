@@ -2,7 +2,7 @@
 layout: post
 title: Start at the close
 categories: epistats
-date: '2022-01-06'
+date: '2022-01-04'
 ---
 
 # Starting at the close
