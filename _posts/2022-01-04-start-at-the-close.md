@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Starting at the close
+title: Free-range ideas
 categories: epistats
-date: '2022-01-04'
+date: '2022-01-06'
 ---
 
-# Starting at the close 
-**Death is the secret sauce to life.** Purpose, goals, and decisions become clear once you realize your time on Earth is finite. Once acquainted with our finteness, we begin to discover infinity living in smallest of moments. It lives in-between a meeting and our lunch, becomes embodied during the stillness we steal with great effort in the early mornings, and an endorphine-filled state we chase during and after long runs. Gratitude thus becomes an acknowledgement of and an act of respect for the teacher that reaches across time to share it's wisdom.
+# Free-range ideas
+**Raise your ideas free-range.** Your mind may incubate your ideas but they're best when aired out. Let them mingle with other minds. Blown by the winds of Dialogue, you might find ideas enriched by the wisdom and richness of life experiences found in diversity and taking root after the gentle coaxing and inspiration of regular conversation. If social fertilization is the food for thought, then regular discussion animates the sustained transformation of whispy whims to intentioned ideas, each mind a node that amplifies the fruits of curiosity's labor as it ripples further and further.
