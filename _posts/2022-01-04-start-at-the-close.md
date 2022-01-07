@@ -1,6 +1,6 @@
 ---
 layout: post
-title: start at the close
+title: Start at the close
 categories: epistats
 date: '2022-01-06'
 ---
