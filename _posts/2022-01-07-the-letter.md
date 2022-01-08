@@ -16,4 +16,4 @@ date: '2022-01-07'
 * How to model changes over time 
 * How to automatically push R code to github 
 
-**R is a letter**, a neighbour residing between Q and S. In my field, it is a glamorized software. But this collection of strokes - one circular and two linear strokes - also marks the contagiousness of a virus that has changes the lives of thousands around the world. It represents the electrical activity within the hearts of those I love and care for. It is the phonetic sibling that asks me "Are you ready?", "Are you sure?", and on some days, "Are you okay?"
+**R is a letter**, a neighbour residing between Q and S. In my field, it is a glamorized software. But this collection of strokes - one circular and two linear strokes - also marks the contagiousness of a virus that has changed the lives of thousands around the world. It represents the electrical activity within the hearts of those I love and care for. It's a symbol with a phonetic sibling that asks me "Are you ready?", "Are you sure?", and on some days, "Are you okay?"
