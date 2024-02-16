@@ -47,6 +47,7 @@ df <- df %>%
   ))
 ```
 ##### Your dataframe should look like this now:
+
 | date_ex       |             |
 | ------------- |-------------|
 | 2018-05-23    |             |
@@ -63,6 +64,7 @@ df <- df %>%
 ```
 
 Your dataframe should look like this now:
+
 | date_ex       |             |
 | ------------- |-------------|
 | 2018-05-23    |             |
