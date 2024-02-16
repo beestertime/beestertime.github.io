@@ -27,7 +27,7 @@ Having dates in different formats make it difficult to do further analyses.
 ___
 ___
 
-**There are different ways of solving this challenge [[^1]], including using regex or regular expressions. Below, I'll show an approach that does not necessitate knowing those concepts. ** 
+There are different ways of solving this challenge [[^1]], including using regex or regular expressions. Below, I'll show an approach that does not necessitate knowing those concepts. 
 
 ## 1. Remove non-dates from date column
 First, let's remove the non-date from our date column and assume an ideal, simplified scenario that there are no repercussions to our analysis by doing so. We subset the data using the `filter` function and indicate we want to exclude the string of interest using `!` and `grepl`.
