@@ -6,9 +6,7 @@ description: " The case of messy data"
 keywords: "date data"
 ---
 
-##### Today let's talk about R and messy date data. 
-
-##### Imagine you imported an excel data file into R and have a column like this:
+##### Today let's talk about R and messy date data. Imagine you imported an excel data file into R and have a column like this:
 
 | date_ex       |             |
 | ------------- |-------------|
@@ -72,5 +70,8 @@ df <- df %>%
 | 2021-04-01    |             |
 | 2022-09-01    |             |
 
+
+___
+___
 ###### [^1]: These approaches worked well in our imaginary _small_ dataframe. If your dataset is larger with more typos or inconsistent date entries, it may be too cumbersome to use the above approach. For now, let's revel in what we've accomplished here :)
 
