@@ -41,12 +41,10 @@ df <- df %>%
 
 ##### 2. 
 ```python
-ache_clean_test <- ache_clean %>% 
-  mutate(date_start = case_when (
-    date_start == "05/06/021" ~ "05/06/2021",
-    date_start == "06/06/021" ~ "06/06/2021", 
-    date_start == "21/01/22" ~ "21/01/2022",
-    TRUE ~ date_start
+df <- df %>% 
+  mutate(date_ex = case_when (
+    date_start == "22-09-01 " ~ "2022-09-01 ",
+    TRUE ~ date_ex
   ))
 ```
 
