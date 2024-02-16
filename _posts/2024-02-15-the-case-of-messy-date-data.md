@@ -72,5 +72,5 @@ df <- df %>%
 | 2021-04-01    |             |
 | 2022-09-01    |             |
 
-##### [^1]: 1: These appraoches worked well in our imaginary _small_ dataframe. If your dataset is larger with more typos or inconsistent date entries, it may be too cumbersome to use the above approach. For now, let's revel in what we've accomplished here :)
+###### [^1]: These approaches worked well in our imaginary _small_ dataframe. If your dataset is larger with more typos or inconsistent date entries, it may be too cumbersome to use the above approach. For now, let's revel in what we've accomplished here :)
 
