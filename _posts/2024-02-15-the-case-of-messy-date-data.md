@@ -47,12 +47,12 @@ df <- df %>%
   ))
 ```
 ##### Your dataframe should look like this now:
-| date_ex       |              |
-| ------------- |------------- |
-| 2018-05-23    |              |
-| 2017-09-01    |              |
-| 44287         |              |
-| 2022-09-01    |              |
+| date_ex       |             |
+| ------------- |-------------|
+| 2018-05-23    |             |
+| 2017-09-01    |             |
+| 44287         |             |
+| 2022-09-01    |             |
 
 ## 3. Convert mixed excel and numeric dates to one date format
 Completing this next and final step required that we ensure our date column contains either numeric or excel date entries. Let's use `mutate` again to update our date variable in combination with the `convert_to_date` from the wonderful [janitor](https://www.rdocumentation.org/packages/janitor/versions/2.2.0/topics/convert_to_date) package. We'll specify with `lubridate` that we'd like the date format to be shown as year-month-day. 
@@ -62,13 +62,13 @@ df <- df %>%
   mutate(date_ex = convert_to_date(date_ex, character_fun = lubridate::ymd))
 ```
 
-##### Your dataframe should look like this now:
-| date_ex       |              |
-| ------------- |------------- |
-| 2018-05-23    |              |
-| 2017-09-01    |              |
-| 2021-04-01    |              |
-| 2022-09-01    |              |
+Your dataframe should look like this now:
+| date_ex       |             |
+| ------------- |-------------|
+| 2018-05-23    |             |
+| 2017-09-01    |             |
+| 2021-04-01    |             |
+| 2022-09-01    |             |
 
 
 ___
