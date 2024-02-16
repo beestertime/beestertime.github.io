@@ -10,13 +10,13 @@ keywords: "date data"
 
 ##### Imagine you imported an excel data file into R and have a column like this:
 
-| date_ex       | 
-| -------------:|
-| 2018-05-23    | 
-| 2017-09-01    | 
-| add this date | 
-| 44287         |
-| 22-09-01      |
+| date_ex       |             |
+| ------------- |-------------|
+| 2018-05-23    |             |
+| 2017-09-01    |             |
+| add this date |             |
+| 44287         |             |
+| 22-09-01      |             |
 
 ##### This date column is a crunchy challenge because we notice a few things: 
 1. We have numeric dates (this is good - yay!)
