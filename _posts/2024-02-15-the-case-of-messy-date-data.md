@@ -29,7 +29,7 @@ Having dates in different formats make it difficult to do further analyses.
 ___
 ___
 
-##### **There are different ways of solving this challenge, including using regex or regular expressions. Below, I'll show an approach that does not necessitate knowing those concepts. ** 
+##### **There are different ways of solving this challenge [[^1]], including using regex or regular expressions. Below, I'll show an approach that does not necessitate knowing those concepts. ** 
 
 ## 1. Remove non-dates from date column
 ##### First, let's remove the non-date from our date column and assume an ideal, simplified scenario that there are no repercussions to our analysis by doing so. We subset the data using the `filter` function and indicate we want to exclude the string of interest using `!` and `grepl`.
@@ -50,8 +50,12 @@ df <- df %>%
 ```
 
 ## 3. Convert mixed excel and numeric dates to one date format
-#####
+##### Completing this next and final step required that we ensure our date column contains either numeric or excel date entries. 
+
 ```python
 df <- df %>%
   mutate(date_ex = convert_to_date(date_ex, character_fun = lubridate::dmy))
 ```
+
+##### [^1]: 1: These appraoches worked well in our imaginary _small_ dataframe. If your dataset is larger with more typos or inconsistent date entries, it may be too cumbersome to use the above approach. For now, let's revel in what we've accomplished here :)
+
