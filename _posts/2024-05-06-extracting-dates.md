@@ -9,25 +9,27 @@ keywords: "extract dates from strings"
 ## THE DATA: 
 Instead of dates, you have dates embedded in string or characters:
 
-| date_ex                            |             |
-| ---------------------------------- |-------------|
-| version_two_2018-05-23             |             |
-| final report for review_2017-09-01 |             |
-| publish this_2022-01-01            |             |
-| draft for meeing_2014-11-13        |             |
+# Table 1
+| date_ex                             |             |
+| ----------------------------------  |-------------|
+| version_two_2018-05-23              |             |
+| final report for review_2017-09-01  |             |
+| publish this_2022-01-01             |             |
+| draft for meeting_2014-11-13        |             |
+
+___
 
 ## THE GOAL: 
 Extract only dates from the string into a new column. In other words, make a new date variable using the date extraced from the text.
 
 ___
-___
 
 ## THE APPROACH: 
 
-To solve this problem, let's use three types of commands or concepts: 
-1) mutate >> creates a new column
-2) str_extract >> extracts strings that match a specified string
-3) regex >> regular expressions or text shortcuts that describe patterns in a string
+To solve this problem, we can use three types of commands or concepts: 
+1) mutate : creates a new column
+2) str_extract : extracts strings that match a specified string
+3) regex : otherwise known as regular expressions or text shortcuts that describe patterns in a string
 
 Assembled, it'll look like this:
 
@@ -35,3 +37,10 @@ Assembled, it'll look like this:
 df <- df %>% 
   mutate(date = str_extract(titles, '(\\d{1,4}-\\d{1,2}-\\d{1,2}'))
 ```
+
+How do we know what pattern we'd like R to extract? If we refer to Table 1, we see that the dates embedded in each string is in the form yyyy-mm-dd. Based on this observation, we'll instruct R using the line `(\\d{1,4}-\\d{1,2}-\\d{1,2}')` to extract any values listed in the "title" column that:
+* matches any digit matching between 1 and 4 times as many times as possible
+* matches a hyphen
+* matches any digit matching between 1 and 2 times
+* matches a hypen
+* matches any digit matching between 1 and 2 times
