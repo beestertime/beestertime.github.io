@@ -29,7 +29,7 @@ To solve this problem, let's use three types of commands or concepts:
 2) str_extract >> extracts strings that match a specified string
 3) regex >> regular expressions or text shortcuts that describe patterns in a string
 
-The structure 
+Assembled, it'll look like this:
 
 ```python
 df <- df %>% 
