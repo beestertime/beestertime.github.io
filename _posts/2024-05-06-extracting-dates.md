@@ -39,8 +39,8 @@ df <- df %>%
 ```
 
 How do we know what pattern we'd like R to extract? If we refer to Table 1, we see that the dates embedded in each string is in the form yyyy-mm-dd. Based on this observation, we'll instruct R using the line `(\\d{1,4}-\\d{1,2}-\\d{1,2}')` to extract any values listed in the "title" column that:
-* matches any digit matching between 1 and 4 times as many times as possible
+* matches any number with 1 to 4 digits
 * matches a hyphen
-* matches any digit matching between 1 and 2 times
+* matches any number with 1 to 2 digits
 * matches a hypen
-* matches any digit matching between 1 and 2 times
+* matches any number with 1 to 2 digits
