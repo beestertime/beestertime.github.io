@@ -38,7 +38,9 @@ df <- df %>%
   mutate(date = str_extract(titles, '(\\d{1,4}-\\d{1,2}-\\d{1,2}'))
 ```
 
-How do we know what pattern we'd like R to extract? If we refer to Table 1, we see that the dates embedded in each string is in the form yyyy-mm-dd. Based on this observation, we'll instruct R using the line `(\\d{1,4}-\\d{1,2}-\\d{1,2}')` to extract any values listed in the "title" column that:
+_How do we know what pattern we'd like R to extract?_
+
+If we refer to Table 1, we see that the dates embedded in each string is in the form yyyy-mm-dd. Based on this observation, we'll instruct R using the line `(\\d{1,4}-\\d{1,2}-\\d{1,2}')` to extract any values listed in the "title" column that:
 * matches any number with 1 to 4 digits
 * matches a hyphen
 * matches any number with 1 to 2 digits
