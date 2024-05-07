@@ -9,7 +9,7 @@ keywords: "extract dates from strings"
 ## THE DATA: 
 Instead of dates, you have dates embedded in string or characters:
 
-#### Table 1
+###### Table 1
 | date_ex                            |                 |
 | ---------------------------------- | :-------------: |
 | version_two_2018-05-23             |                 |
@@ -51,7 +51,7 @@ ___
 
 ## THE RESULT: 
 
-#### Table 2
+###### Table 2
 | date_ex                            |    date          |
 | ---------------------------------- | :--------------: |
 | version_two_2018-05-23             |  2018-05-23      |
