@@ -10,12 +10,12 @@ keywords: "extract dates from strings"
 Instead of dates, you have dates embedded in string or characters:
 
 #### Table 1
-| date_ex                             |             |
-| ----------------------------------  |-------------|
-| version_two_2018-05-23              |             |
-| final report for review_2017-09-01  |             |
-| publish this_2022-01-01             |             |
-| draft for meeting_2014-11-13        |             |
+| date_ex                            |             |
+| ---------------------------------- |-------------|
+| version_two_2018-05-23             |             |
+| final report for review_2017-09-01 |             |
+| publish this_2022-01-01            |             |
+| draft for meeting_2014-11-13       |             |
 
 ___
 
