@@ -27,9 +27,9 @@ ___
 ## THE APPROACH: 
 
 To solve this problem, we can use three types of commands or concepts: 
-1) `mutate` : creates a new column
-2) `str_extract` : extracts strings that match a specified string
-3) `regex` : otherwise known as regular expressions or text shortcuts that describe patterns in a string
+1. `mutate` : creates a new column
+2. `str_extract` : extracts strings that match a specified string
+3. `regex` : otherwise known as regular expressions or text shortcuts that describe patterns in a string
 
 Assembled, it'll look like this:
 
