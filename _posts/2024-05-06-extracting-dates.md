@@ -46,3 +46,16 @@ If we refer to Table 1, we see that the dates embedded in each string is in the 
 * matches any number with 1 to 2 digits
 * matches a hypen
 * matches any number with 1 to 2 digits
+
+___
+
+## THE RESULT: 
+
+# Table 2
+| date_ex                             |    date         |
+| ----------------------------------  |---------------  |
+| version_two_2018-05-23              |  2018-05-23     |
+| final report for review_2017-09-01  |  2017-09-01     |
+| publish this_2022-01-01             |  2022-01-01     |
+| draft for meeting_2014-11-13        |  2014-11-13     |
+
