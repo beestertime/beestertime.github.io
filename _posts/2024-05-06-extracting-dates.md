@@ -51,6 +51,12 @@ ___
 
 ## THE RESULT: 
 
+The result is a new, second column called "date" with our extracted dates.
+
+> Let's say you had multiple columns. You want to validate the extracted dates are correct usng the column with the original dates.
+
+The problem when you have multiple columns is that the new column will be added to the end of the dataframe. It could be easier to move the new date column closer to the reference column. 
+
 ###### Table 2
 | date_ex       |    date        |
 | ------------- | -------------- |
